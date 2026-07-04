@@ -48,7 +48,7 @@ personality-prediction/
 
 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/personality-prediction.git
+git clone https://github.com/<anishambad>/personality-prediction.git
 cd personality-prediction
 ```
 2️⃣ Install dependencies
