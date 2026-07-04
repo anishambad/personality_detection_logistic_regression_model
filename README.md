@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 Live Demo
-Try the app here: [Personality Prediction App](https://your-streamlit-deployment-url.streamlit.app/)
+Try the app here: [Personality Prediction App](https://personalitydetectionlogisticregressionmodel-zjuholzrahjf4ns2tx.streamlit.app/)
 
 ---
 
