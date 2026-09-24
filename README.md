@@ -70,11 +70,11 @@ streamlit run app.py
 🔢 NumPy
 📈 Scikit-learn
 🌐 Streamlit
-📈 Model Details
+
 
 Algorithm: Logistic Regression
 Training: Encoded categorical + numeric features
-Accuracy: 99.75%
+Accuracy: 90.75%
 Target: Personality Type (Introvert, Ambivert, Extrovert)
 
 👤 Author  
